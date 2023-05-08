@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the Elastic License 2.0.
 #
 """
-A task periodically clean up orphaned and idle jobs.
+A task periodically clean up orphaned and idle jobs (test).
 """
 
 from connectors.byoc import ConnectorIndex, SyncJobIndex
